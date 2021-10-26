@@ -44,7 +44,7 @@ public class AplikasiPembalikKata {
       for(a= hapus -1; a >= 0; a--){
    terbalik = terbalik + kata.charAt(a);
     }
-  if(kata.contains("%ng")){
+  if(kata.contains("ng")){
           System.out.println("Setelah di balik : ng"+ng);
       }
   else if (kata.contains("ny")){
