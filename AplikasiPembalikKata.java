@@ -19,9 +19,11 @@ public class AplikasiPembalikKata {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //menampikan kalimat masukkan kata
+        /** Nama : Septa Dwi Prasetya
+          * Nim  : 21.31.0006
+          * Prodi: D3-SI
+          */
         System.out.println("Masukkan kata = ");
-        //
         Scanner masukan = new Scanner(System.in);
         String kata = masukan.next(); 
         int i;
